@@ -1,0 +1,57 @@
+/* Google font link */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+/* primary-color: #f0f1f6; */
+/* secondary-color: #EDF0FF; */
+
+/* button-color: #3B00AD; */
+/* subc-button-color: #FF3D00; */
+
+/* highlight-text: #FF3D00; */
+
+ul>li>a{
+    text-decoration: none;
+    color: black;
+}
+
+body,footer {
+  max-width: 1500px;
+  margin: auto;
+}
+.btn-style {
+  background-color: #3b00ad;
+  color: white;
+  border-radius: 10px;
+  padding: 5px 22px;
+}
+.btn-style:hover {
+  background-color: red;
+  color: white;
+}
+.choose a {
+  color: #3b00ad;
+  text-decoration: none;
+  font-weight: bold;
+}
+.p-card {
+  line-height: 100%;
+  padding: 3rem;
+  background-color: #edf0ff;
+  border-radius: 10px;
+}
+.p-card:hover {
+  background-color: #3b00ad;
+  color: white;
+}
+.i-style {
+  color: #3b00ad;
+}
+.i-style:hover {
+  color: red;
+}
+.contant_bg {
+  background-color: rgb(248, 248, 248);
+  border-radius: 10px;
+  box-shadow: 7px 7px whitesmoke;
+  padding: 1rem 2rem;
+}
